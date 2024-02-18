@@ -1,1 +1,1 @@
-Hello from FIT5202S
+Hello from FIT5202
